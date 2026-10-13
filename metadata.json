@@ -1,0 +1,6 @@
+{
+  "name": "FacEvo Explorer & Live Studio",
+  "description": "Analyse technique interactive et reconstitution fonctionnelle de l'interface facEvo (Swap Live, Restyle, Traduction temps réel et architecture Next.js).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
